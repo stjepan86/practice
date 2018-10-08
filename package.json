@@ -1,0 +1,19 @@
+{
+  "name": "vjezba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch assets/scss/style.scss assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stjepan86/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stjepan86/practice/issues"
+  },
+  "homepage": "https://github.com/stjepan86/practice#readme"
+}
